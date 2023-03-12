@@ -1,7 +1,7 @@
 - 👋 **Name**: Victor MOIN
 - 🤓 **Work**: Junior Architect / Lead Developer @ IBM
-- 👀 **Interests**: Docker, Kubernetes, Helm Chart, Typescript, Node.js, React, Go, Blockchain, Workflow
-- 🌱 **Learnings**: Hyperledger Fabric
+- 👀 **Interests**: Carbon Footprint, Climate Change, Docker, Kubernetes, Helm Chart, Typescript, Node.js, React, Go, Workflow
+- 🌱 **Learnings**: Data Engineering, Architecturing
 - 📫 **Reach me**: victormoin.vm@gmail.com or https://www.linkedin.com/in/victor-moin/
 
 <!---
