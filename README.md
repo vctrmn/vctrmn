@@ -1,5 +1,5 @@
 - 👋 **Name**: Victor MOIN
-- 🤓 **Work**: Junior Architect / Lead Developer @ IBM
+- 🤓 **Work**: Solution Architect @ CapGemini
 - 👀 **Interests**: Carbon Footprint, Climate Change, Docker, Kubernetes, Helm Chart, Typescript, Node.js, React, Go, Workflow
 - 🌱 **Learnings**: Data Engineering, Architecturing
 - 📫 **Reach me**: victormoin.vm@gmail.com or https://www.linkedin.com/in/victor-moin/
