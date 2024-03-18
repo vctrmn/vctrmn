@@ -1,7 +1,7 @@
 - 👋 **Name**: Victor MOIN
 - 🤓 **Work**: Solution Architect @ Capgemini
-- 👀 **Interests**: Carbon Footprint, Climate Change, AI, Machine Learning, Docker, Kubernetes, Helm Chart, Python, Typescript, Node.js, React, Workflow
-- 🌱 **Learnings**: Data Engineering, Architecturing
+- 👀 **Interests**: AI, Machine Learning, LLM, Data Platform, Docker, Kubernetes, Helm Chart, Python, Typescript, Workflow
+- 🌱 **Learnings**: Architecturing, AI, 
 - 📫 **Reach me**: victormoin.vm@gmail.com or https://www.linkedin.com/in/victor-moin/
 
 <!---
