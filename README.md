@@ -1,7 +1,7 @@
 - 👋 **Name**: Victor MOIN
-- 🤓 **Work**: Solution Architect & Software Engineer @ Capgemini
-- 👀 **Interests**: AI, Machine Learning, LLM, MLOps, Docker, Kubernetes, Python, Typescript, Zig, Bazel
-- 🌱 **Learnings**: Architecturing, AI
+- 🤓 **Work**: Solution Architect & Software Engineer
+- 👀 **Interests**: AI, Machine Learning, LLM, MLOps, Docker, Python, Typescript, Zig, Bazel
+- 🌱 **Learnings**: NN, Zig, Bazel
 - 📫 **Reach me**: victormoin.vm@gmail.com or https://www.linkedin.com/in/victor-moin/
 
 <!---
