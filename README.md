@@ -1,7 +1,7 @@
 - 👋 **Name**: Victor MOIN
 - 🤓 **Work**: Solution & Software Engineer
 - 👀 **Interests**: AI, Machine Learning, LLM, MLOps, Docker, Python, Typescript, Zig, Bazel
-- 🌱 **Learnings**: NN, Zig, Bazel, Pytorch
+- 🌱 **Learnings**: Zig, Bazel, Pytorch
 - 📫 **Reach me**: victormoin.vm@gmail.com or https://www.linkedin.com/in/victor-moin/
 
 <!---
